@@ -79,6 +79,7 @@ public class Visit extends BaseEntity {
      * @param date New value of property date.
      */
     public void setDate(LocalDate date) {
+
         this.date = date;
     }
 
